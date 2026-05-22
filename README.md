@@ -1,3 +1,9 @@
+> **Fork notice (cs552-mcp-agent-security)**: This repository is a fork of
+> [JideGuru/FlutterEbookApp](https://github.com/JideGuru/FlutterEbookApp),
+> maintained for the CS552 GitHub MCP Injection Benchmark. The upstream LICENSE
+> (BSD-3-Clause) is preserved verbatim; original author attribution is intact.
+
+---
 # 📖📖 OpenLeaf (Flutter eBook App) [![Codemagic build status](https://api.codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/status_badge.svg)](https://codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/latest_build)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
